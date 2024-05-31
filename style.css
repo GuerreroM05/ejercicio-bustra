@@ -1,0 +1,74 @@
+body {
+    font-family: Arial, sans-serif;
+}
+
+#inicio {
+    background-color: #f0f0f0;
+    padding: 50px 0;
+}
+
+#ventajas-beneficios {
+    background-color: #e0e0e0;
+    padding: 50px 0;
+}
+
+.main-header {
+    background-color: #f8f9fa;
+    padding: 10px 0; 
+}
+
+.main-header .navbar-brand {
+    font-size: 24px; 
+    font-weight: bold; 
+    color: #333;
+}
+
+.main-header .nav-link {
+    font-size: 18px; 
+    color: #333; 
+}
+
+.second-header {
+    background-color: #f0f0f0;
+    border-bottom: 1px solid #ccc;
+}
+
+.second-header .navbar-brand {
+    font-weight: bold;
+}
+
+.second-header .nav-link {
+    color: #333 !important;
+}
+
+footer {
+    background-color: #333;
+    color: #fff;
+    padding: 20px 0;
+}
+
+footer p {
+    margin-bottom: 0;
+}
+
+.container {
+    width: 80%;
+    margin: auto;
+}
+
+h2 {
+    color: #333;
+}
+
+p {
+    color: #666;
+}
+
+img {
+    display: block;
+    margin: auto;
+    max-width: 100%;
+    height: auto;
+    border-radius: 8px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}
